@@ -24,9 +24,9 @@ class Song
     @@songs
   end
 
-#  def artist=(artist)
-#    @artist = artist
-#  end
+  def artist=(artist)
+    @artist = artist
+  end
 
 #  def to_param
 #    name.downcase.gsub(' ', '-')
